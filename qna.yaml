@@ -5,29 +5,6 @@ document_outline: |
     The Federal Bureau of Investigation reports on cargo theft in the united states of america.
 seed_examples:
   - context: |
-      When the U.S. Congress passed the USA PATRIOT Improvement and Reauthorization Act of 2005, a provision was included requiring the Attorney General of the United States to “take the steps necessary to ensure that reports of cargo theft collected by federal, state, and local officials are reflected as a separate category in the FBI Uniform Crime Reporting (UCR) System.” The Attorney General called on the FBI to study the concern and fulfill this requirement, collaborating with the FBI’s partner law enforcement agencies around the nation.
-
-      The FBI’s Criminal Justice Information Services Division began work to define cargo theft and develop the requirements to collect the data. The specifications required for capturing cargo theft data in the UCR Summary Reporting System, as well as the National Incident-Based Reporting System, were finalized in 2010. Now, several years later, while some states have reported their cargo theft incidents (see Table 1 - 2013 data below), more reporting is needed to provide a realistic picture of national cargo theft trends.
-
-      Cargo Theft UCR Definition. The criminal taking of any cargo including, but not limited to, goods, chattels, money, or baggage that constitutes in whole or in part, a commercial shipment of freight moving in commerce...[and] for purposes of this definition, cargo shall be deemed as
-      ‘moving in commerce’ at all points between the point of origin and the final destination,
-      regardless of any temporary stop while awaiting trans shipment.
-
-      Why collect cargo theft data? A 2010 article, which the FBI published at the onset of the UCR Program’s cargo theft data collection, explains why it is important to gather information about cargo theft. The article asserts that the data could help measure the impact this type of crime has on both the economy and national security.  The article describes cargo theft as a “gateway” crime, sometimes turning out to be one piece of a larger case such as organized crime, drug
-      trafficking, or funding for terrorism. Earlier estimates place losses from cargo theft in the billions, but until more agencies contribute their cargo theft statistics, it will remain challenging to accurately depict losses reported to law enforcement.
-
-      What information is collected? When law enforcement agencies report cargo theft, they include at least one of 13 offenses to specifically describe the incident. For instance, if the cargo was taken by threat or force, it is a robbery. If an entire truck is stolen, it is reported as a motor vehicle theft.
-    questions_and_answers:
-      - question: | 
-            What is cargo theft?
-
-        answer: |
-            The criminal taking of any cargo including, but not limited to, goods, chattels, money, or baggage that constitutes in whole or in part, a commercial shipment of freight moving in commerce...[and] for purposes of this definition, cargo shall be deemed as
-            ‘moving in commerce’ at all points between the point of origin and the final destination,
-            regardless of any temporary stop while awaiting trans shipment
-
-
-  - context: |
       ## Cargo Theft
 
       Cargo theft includes-but is not limited to-theft of goods, chattel, money, or baggage that constitutes, in whole or in part, a commercial freight shipment moving in commerce.
