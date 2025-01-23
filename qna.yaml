@@ -299,3 +299,15 @@ seed_examples:
           What is the percentage of bicycle theft recovered in 2015?
         answer: | 
           The total percentage of bicycles recovered from bicycle theft in 2015 is 0.0
+
+document:
+  repo: 'https://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@github.com/USERNAME/REPO_NAME.git'
+  commit: 75ae6241c32c8e18c3dd9ff58ac446a047a856f0
+  patterns:
+    - '2018 Cargo Theft Report.pdf'
+    - '2019 Cargo Theft Report.pdf'
+    - 'CargoTheft Report -2017-_to CSMU for final review Aug 20 2018.pdf'
+    - 'CargoTheft Report 2016_final.pdf'
+    - 'CargoTheft Report_2015_final.pdf'
+    - 'CargoTheft Report_FINAL copy.pdf' 
+    - 'CargoTheftUpdate2013.pdf'
