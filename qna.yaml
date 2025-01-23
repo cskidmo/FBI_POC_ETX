@@ -17,49 +17,129 @@ seed_examples:
       trafficking, or funding for terrorism. Earlier estimates place losses from cargo theft in the billions, but until more agencies contribute their cargo theft statistics, it will remain challenging to accurately depict losses reported to law enforcement.
 
       What information is collected? When law enforcement agencies report cargo theft, they include at least one of 13 offenses to specifically describe the incident. For instance, if the cargo was taken by threat or force, it is a robbery. If an entire truck is stolen, it is reported as a motor vehicle theft.
-questions_and_answers:
-   - question: | 
-       What is cargo theft?
+    questions_and_answers:
+      - question: | 
+            What is cargo theft?
 
-   - answer: |
-       The criminal taking of any cargo including, but not limited to, goods, chattels, money, or baggage that constitutes in whole or in part, a commercial shipment of freight moving in commerce...[and] for purposes of this definition, cargo shall be deemed as
-       ‘moving in commerce’ at all points between the point of origin and the final destination,
-       regardless of any temporary stop while awaiting trans shipment
-
-
-   - context: |
-       ## Cargo Theft
-
-       Cargo theft includes-but is not limited to-theft of goods, chattel, money, or baggage that constitutes, in whole or in part, a commercial freight shipment moving in commerce.
-
-       Image of cargo being loaded into the cargo hold of an airplane.
-
-       Theft can occur from, but not limited to, the following:
-
-       Methods of transportation: pipeline system, railroad car, motor truck, tank, vessel, aircraft, other vehicle
-       Locations: storage facility, station house, platform, depot, wharf, airport, air navigation facility, container freight station, warehouse, freight distribution facility, freight consolidation facility
-       Containers: intermodal container, intermodal chassis, trailer
-
-       ## Types of cargo theft
-
-       Straight cargo theft occurs when cargo is physically stolen from its current location. Cargo thieves often look for items they can steal and sell quickly.
-
-       This often occurs at truck stops, parking lots, roadside parking, drop lots, rail yards and other situations where cargo is left unattended.
-
-       Strategic cargo theft occurs when thieves incorporate deceptive tactics to commit theft. This type of cargo theft involves the use of fraud to trick shippers, brokers, and carriers into handing loads over to thieves instead of the legitimate carrier. Other current strategic cargo theft trends include identity theft, fictitious pick-ups, account takeovers, double brokering scams, and fraudulent carriers as well as the implementation of a combination of these methods.
-
-       Cyber cargo theft occurs when basic types of cyberattacks are used to aid in committing cargo theft. The attacks include phishing emails that install Trojan Horse malware granting access to a company's systems for thieves to retrieve sensitive data. Thieves then use this information to print out copies of legitimate shipping paperwork they can use to commit fictitious pick-ups.
-
-       Pilferage cargo theft occurs when criminals alter the bill of lading and pilfer small amounts off the truck.
-questions_and_answers:
-   - question: | 
-       What items are stolen from cargo containers?
-
-   - answer: |
-       Cargo container items which can be stolen can include:  Alcohol, automobiles, firearms, aircraft, bicycles, clothes/fur, computer hard/software, weapons-other, trailers, watercraft equipment/ parts/ accessories, other, portable electronic communications, law/ yard/ garden equipment, metals non-precious, metals precious, medical/ medical lab equipment, musical instruments, pets, photographic / optical equipment, purse/ wallet, radio/ tv/ vcr, recordings, recreational vehicles, structure/ storage, tools, vehicle parts, documents/ personal or business, identity documents, Identity-intangible. 
+        answer: |
+            The criminal taking of any cargo including, but not limited to, goods, chattels, money, or baggage that constitutes in whole or in part, a commercial shipment of freight moving in commerce...[and] for purposes of this definition, cargo shall be deemed as
+            ‘moving in commerce’ at all points between the point of origin and the final destination,
+            regardless of any temporary stop while awaiting trans shipment
 
 
-   - context: |
+  - context: |
+      ## Cargo Theft
+
+      Cargo theft includes-but is not limited to-theft of goods, chattel, money, or baggage that constitutes, in whole or in part, a commercial freight shipment moving in commerce.
+
+      Image of cargo being loaded into the cargo hold of an airplane.
+
+      Theft can occur from, but not limited to, the following:
+
+      Methods of transportation: pipeline system, railroad car, motor truck, tank, vessel, aircraft, other vehicle
+      Locations: storage facility, station house, platform, depot, wharf, airport, air navigation facility, container freight station, warehouse, freight distribution facility, freight consolidation facility
+      Containers: intermodal container, intermodal chassis, trailer
+
+      ## Types of cargo theft
+
+      Straight cargo theft occurs when cargo is physically stolen from its current location. Cargo thieves often look for items they can steal and sell quickly.
+
+      This often occurs at truck stops, parking lots, roadside parking, drop lots, rail yards and other situations where cargo is left unattended.
+
+      Strategic cargo theft occurs when thieves incorporate deceptive tactics to commit theft. This type of cargo theft involves the use of fraud to trick shippers, brokers, and carriers into handing loads over to thieves instead of the legitimate carrier. Other current strategic cargo theft trends include identity theft, fictitious pick-ups, account takeovers, double brokering scams, and fraudulent carriers as well as the implementation of a combination of these methods.
+
+      Cyber cargo theft occurs when basic types of cyberattacks are used to aid in committing cargo theft. The attacks include phishing emails that install Trojan Horse malware granting access to a company's systems for thieves to retrieve sensitive data. Thieves then use this information to print out copies of legitimate shipping paperwork they can use to commit fictitious pick-ups.
+
+      Pilferage cargo theft occurs when criminals alter the bill of lading and pilfer small amounts off the truck.
+    questions_and_answers:
+      - question: | 
+          What items are stolen from cargo containers?
+
+        answer: |
+          Cargo container items which can be stolen can include:  Alcohol, automobiles, firearms, aircraft, bicycles, clothes/fur, computer hard/software, weapons-other, trailers, watercraft equipment/ parts/ accessories, other, portable electronic communications, law/ yard/ garden equipment, metals non-precious, metals precious, medical/ medical lab equipment, musical instruments, pets, photographic / optical equipment, purse/ wallet, radio/ tv/ vcr, recordings, recreational vehicles, structure/ storage, tools, vehicle parts, documents/ personal or business, identity documents, Identity-intangible. 
+
+
+  - context: |
+      ## Cargo Theft
+
+      Cargo theft includes-but is not limited to-theft of goods, chattel, money, or baggage that constitutes, in whole or in part, a commercial freight shipment moving in commerce.
+
+      Image of cargo being loaded into the cargo hold of an airplane.
+
+      Theft can occur from, but not limited to, the following:
+
+      Methods of transportation: pipeline system, railroad car, motor truck, tank, vessel, aircraft, other vehicle
+      Locations: storage facility, station house, platform, depot, wharf, airport, air navigation facility, container freight station, warehouse, freight distribution facility, freight consolidation facility
+      Containers: intermodal container, intermodal chassis, trailer
+
+      ## Types of cargo theft
+
+          Straight cargo theft occurs when cargo is physically stolen from its current location. Cargo thieves often look for items they can steal and sell quickly.
+
+          This often occurs at truck stops, parking lots, roadside parking, drop lots, rail yards and other situations where cargo is left unattended.
+
+          Strategic cargo theft occurs when thieves incorporate deceptive tactics to commit theft. This type of cargo theft involves the use of fraud to trick shippers, brokers, and carriers into handing loads over to thieves instead of the legitimate carrier. Other current strategic cargo theft trends include identity theft, fictitious pick-ups, account takeovers, double brokering scams, and fraudulent carriers as well as the implementation of a combination of these methods.
+
+          Cyber cargo theft occurs when basic types of cyberattacks are used to aid in committing cargo theft. The attacks include phishing emails that install Trojan Horse malware granting access to a company's systems for thieves to retrieve sensitive data. Thieves then use this information to print out copies of legitimate shipping paperwork they can use to commit fictitious pick-ups.
+
+          Pilferage cargo theft occurs when criminals alter the bill of lading and pilfer small amounts off the truck.
+
+          Image of cargo containers loaded onto a train on railroad tracks.
+
+          ## Railroad Cargo Theft
+
+          Railroad cargo theft is a form of cargo theft occurring on shipments of cargo transported via rail.
+
+          Image of the inside of a cargo container.
+    questions_and_answers:   
+      - question: |
+          In what locations can cargo theft occur?
+
+        answer: | 
+          Locations in which cargo theft can occur includes:  storage facility, station house, platform, depot, wharf, airport, air navigation facility
+
+
+  - context: |
+          ## Cargo Theft
+
+          Cargo theft includes-but is not limited to-theft of goods, chattel, money, or baggage that constitutes, in whole or in part, a commercial freight shipment moving in commerce.
+
+          Image of cargo being loaded into the cargo hold of an airplane.
+
+          Theft can occur from, but not limited to, the following:
+
+          Methods of transportation: pipeline system, railroad car, motor truck, tank, vessel, aircraft, other vehicle
+          Locations: storage facility, station house, platform, depot, wharf, airport, air navigation facility, container freight station, warehouse, freight distribution facility, freight consolidation facility
+          Containers: intermodal container, intermodal chassis, trailer
+
+          ## Types of cargo theft
+
+          Straight cargo theft occurs when cargo is physically stolen from its current location. Cargo thieves often look for items they can steal and sell quickly.
+
+          This often occurs at truck stops, parking lots, roadside parking, drop lots, rail yards and other situations where cargo is left unattended.
+
+          Strategic cargo theft occurs when thieves incorporate deceptive tactics to commit theft. This type of cargo theft involves the use of fraud to trick shippers, brokers, and carriers into handing loads over to thieves instead of the legitimate carrier. Other current strategic cargo theft trends include identity theft, fictitious pick-ups, account takeovers, double brokering scams, and fraudulent carriers as well as the implementation of a combination of these methods.
+
+          Cyber cargo theft occurs when basic types of cyberattacks are used to aid in committing cargo theft. The attacks include phishing emails that install Trojan Horse malware granting access to a company's systems for thieves to retrieve sensitive data. Thieves then use this information to print out copies of legitimate shipping paperwork they can use to commit fictitious pick-ups.
+
+          Pilferage cargo theft occurs when criminals alter the bill of lading and pilfer small amounts off the truck.
+
+          Image of cargo containers loaded onto a train on railroad tracks.
+
+          ## Railroad Cargo Theft
+
+          Railroad cargo theft is a form of cargo theft occurring on shipments of cargo transported via rail.
+
+          Image of the inside of a cargo container.
+    questions_and_answers:
+      - question: |  
+          What methods of transportation can theft occur in?
+
+        answer: |
+          Methods of transportations where cargo theft occurs can include:  pipeline system, railroad car, motor truck, tank, vessel, aircraft, other vehicle
+
+
+  - context: |
        ## Cargo Theft
 
        Cargo theft includes-but is not limited to-theft of goods, chattel, money, or baggage that constitutes, in whole or in part, a commercial freight shipment moving in commerce.
@@ -89,95 +169,15 @@ questions_and_answers:
        ## Railroad Cargo Theft
 
        Railroad cargo theft is a form of cargo theft occurring on shipments of cargo transported via rail.
+    questions_and_answers:
+      - question: | 
+          What types of containers can theft occur in?
 
-       Image of the inside of a cargo container.
-questions_and_answers:   
-   - question: |
-       In what locations can cargo theft occur?
-
-   - answer: | 
-       Locations in which cargo theft can occur includes:  storage facility, station house, platform, depot, wharf, airport, air navigation facility
+        answer: | 
+          Types of containers where theft can occur include:  intermodal container, intermodal chassis, trailer
 
 
-   - context: |
-       ## Cargo Theft
-
-       Cargo theft includes-but is not limited to-theft of goods, chattel, money, or baggage that constitutes, in whole or in part, a commercial freight shipment moving in commerce.
-
-       Image of cargo being loaded into the cargo hold of an airplane.
-
-       Theft can occur from, but not limited to, the following:
-
-       Methods of transportation: pipeline system, railroad car, motor truck, tank, vessel, aircraft, other vehicle
-       Locations: storage facility, station house, platform, depot, wharf, airport, air navigation facility, container freight station, warehouse, freight distribution facility, freight consolidation facility
-       Containers: intermodal container, intermodal chassis, trailer
-
-       ## Types of cargo theft
-
-       Straight cargo theft occurs when cargo is physically stolen from its current location. Cargo thieves often look for items they can steal and sell quickly.
-
-       This often occurs at truck stops, parking lots, roadside parking, drop lots, rail yards and other situations where cargo is left unattended.
-
-       Strategic cargo theft occurs when thieves incorporate deceptive tactics to commit theft. This type of cargo theft involves the use of fraud to trick shippers, brokers, and carriers into handing loads over to thieves instead of the legitimate carrier. Other current strategic cargo theft trends include identity theft, fictitious pick-ups, account takeovers, double brokering scams, and fraudulent carriers as well as the implementation of a combination of these methods.
-
-       Cyber cargo theft occurs when basic types of cyberattacks are used to aid in committing cargo theft. The attacks include phishing emails that install Trojan Horse malware granting access to a company's systems for thieves to retrieve sensitive data. Thieves then use this information to print out copies of legitimate shipping paperwork they can use to commit fictitious pick-ups.
-
-       Pilferage cargo theft occurs when criminals alter the bill of lading and pilfer small amounts off the truck.
-
-       Image of cargo containers loaded onto a train on railroad tracks.
-
-       ## Railroad Cargo Theft
-
-       Railroad cargo theft is a form of cargo theft occurring on shipments of cargo transported via rail.
-
-       Image of the inside of a cargo container.
-questions_and_answers:
-   - question: |  
-        What methods of transportation can theft occur in?
-
-   - answer: |
-        Methods of transportations where cargo theft occurs can include:  pipeline system, railroad car, motor truck, tank, vessel, aircraft, other vehicle
-
-
-   - context: |
-       ## Cargo Theft
-
-       Cargo theft includes-but is not limited to-theft of goods, chattel, money, or baggage that constitutes, in whole or in part, a commercial freight shipment moving in commerce.
-
-       Image of cargo being loaded into the cargo hold of an airplane.
-
-       Theft can occur from, but not limited to, the following:
-
-       Methods of transportation: pipeline system, railroad car, motor truck, tank, vessel, aircraft, other vehicle
-       Locations: storage facility, station house, platform, depot, wharf, airport, air navigation facility, container freight station, warehouse, freight distribution facility, freight consolidation facility
-       Containers: intermodal container, intermodal chassis, trailer
-
-       ## Types of cargo theft
-
-       Straight cargo theft occurs when cargo is physically stolen from its current location. Cargo thieves often look for items they can steal and sell quickly.
-
-       This often occurs at truck stops, parking lots, roadside parking, drop lots, rail yards and other situations where cargo is left unattended.
-
-       Strategic cargo theft occurs when thieves incorporate deceptive tactics to commit theft. This type of cargo theft involves the use of fraud to trick shippers, brokers, and carriers into handing loads over to thieves instead of the legitimate carrier. Other current strategic cargo theft trends include identity theft, fictitious pick-ups, account takeovers, double brokering scams, and fraudulent carriers as well as the implementation of a combination of these methods.
-
-       Cyber cargo theft occurs when basic types of cyberattacks are used to aid in committing cargo theft. The attacks include phishing emails that install Trojan Horse malware granting access to a company's systems for thieves to retrieve sensitive data. Thieves then use this information to print out copies of legitimate shipping paperwork they can use to commit fictitious pick-ups.
-
-       Pilferage cargo theft occurs when criminals alter the bill of lading and pilfer small amounts off the truck.
-
-       Image of cargo containers loaded onto a train on railroad tracks.
-
-       ## Railroad Cargo Theft
-
-       Railroad cargo theft is a form of cargo theft occurring on shipments of cargo transported via rail.
-questions_and_answers:
-   - question: | 
-        What types of containers can theft occur in?
-
-   - answer: | 
-        Types of containers where theft can occur include:  intermodal container, intermodal chassis, trailer
-
-
-   - context: | 
+  - context: | 
        ## Cargo Theft
 
        Cargo theft includes-but is not limited to-theft of goods, chattel, money, or baggage that constitutes, in whole or in part, a commercial freight shipment moving in commerce.
@@ -207,18 +207,22 @@ questions_and_answers:
        ## Railroad Cargo Theft
 
        Railroad cargo theft is a form of cargo theft occurring on shipments of cargo transported via rail.
-questions_and_answers:
-   - question: | 
-        What information is collected?
-   - answer: | 
-        Information collected includes what type of property is stolen, whether the cargo was taken by force, whether the theft involves fraud, the location of the theft, the type of weapon used if any, the value of the property stolen, and the description of the property stolen. In addition, information on the recovery of the stolen property and any information about the victim and the offender are collected as well.
 
-   - question: How is the data used?
-   - answer: | 
-        Information collected about the stolen property, the circumstance of the theft, whether force was used for not and the offender provides the agency insight into potential national security threats.
+    questions_and_answers:
+
+      - question: | 
+          What information is collected?
+        
+        answer: | 
+          Information collected includes what type of property is stolen, whether the cargo was taken by force, whether the theft involves fraud, the location of the theft, the type of weapon used if any, the value of the property stolen, and the description of the property stolen. In addition, information on the recovery of the stolen property and any information about the victim and the offender are collected as well.
+
+      - question: |
+          How is the data used?
+        answer: | 
+          Information collected about the stolen property, the circumstance of the theft, whether force was used for not and the offender provides the agency insight into potential national security threats.
 
 
-   - context: 
+  - context: 
         The FBI's Uniform Crime Reporting (UCR) Program collects cargo theft data to inform the law enforcement community, federal and state legislators, academia, and the public at large about this particular crime. The data can be used to create awareness and to measure the impact cargo theft has on the economy and potential threats to national security. Often cargo theft offenses are part of larger criminal schemes and have been found to be components of organized crime rings, drug trafficking, and funding for terrorism. The UCR collection of cargo theft data is quite new with only 3 years of data published, but the number of agencies reporting cargo theft incidents has increased each year. As more agencies participate, future versions of this cargo theft report will depict a more complete account of the occurrences of cargo thefts in the United States.
 
         Background
@@ -226,21 +230,13 @@ questions_and_answers:
 
         What is cargo Theft?
         Cargo theft is defined as 'The criminal taking of any cargo including, but not limited to, goods, chattels, money, or baggage that constitutes, in whole or in part, a commercial shipment of freight moving in commerce, from any pipeline system, railroad car, motor truck, or other vehicle, or from any tank or storage facility, station house, platform, or depot, or from any vessel or wharf, or from any aircraft, air terminal, airport, aircraft terminal or air navigation facility, or from any intermodal container, intermodal chassis, trailer, container freight station, warehouse, freight distribution facility, or freight consolidation facility. For purposes of this definition, cargo shall be deemed as moving in commerce at all points between the point of origin and the final destination, regardless of any temporary stop while awaiting transshipment or otherwise.'
-questions_and_answers:
-   - question: |
-        why does the FBI collect cargo theft data?
-   - answer: |
-        Due to the significant economic impact that cargo theft has on the United States economy, and the potential for use by terrorist organizations, H.R. 3199, the 'USA Patriot Improvement and Reauthorization Act of 2005,' was mandated by Congress on March 9, 2006. It required the Attorney General to 'take the steps necessary to ensure that reports of cargo theft collected by Federal, State, and local officials are reflected as a separate category in the Uniform Crime Reporting System, or any successor system, by no later than December 31, 2006.' 
+    questions_and_answers:
+      - question: |
+          why does the FBI collect cargo theft data?
+        answer: |
+          Due to the significant economic impact that cargo theft has on the United States economy, and the potential for use by terrorist organizations, H.R. 3199, the 'USA Patriot Improvement and Reauthorization Act of 2005,' was mandated by Congress on March 9, 2006. It required the Attorney General to 'take the steps necessary to ensure that reports of cargo theft collected by Federal, State, and local officials are reflected as a separate category in the Uniform Crime Reporting System, or any successor system, by no later than December 31, 2006.'
 
-
-Context: |
- version: 3
-domain: Yearly Crime Data
-created_by: Cameron
-document_outline: 
-    The Federal Bureau of Investigation Records on 
-seed_examples:
- -context: |
+  - context: |
       ## Table 1 Cargo Theft by State by Incidents, and Stolen, Recovered Values, 2015
 
       |  State             | Number of  agencies  reporting  an  incident                               | Number of  incidents  reported                               | Value of property Stolen | Value of property Recovered  | Percent  recovered                   |
@@ -252,31 +248,25 @@ seed_examples:
       | Florida       | 9                                     | 53                             | 6,367,291           | 1,676,760           | 26.3               |
       | Georgia       | 2                                     | 3                              | 9,387               | 0                   | 0.0                |
 
-questions_and_answers:
-   - question: |
-        What is the information in row one in the table?        
-   - answer: | 
-        The information in row one in the table is totaling the available statistics across multiple categories used to organize the crime data.  These totals are for Number of agencies reporting an incident, Number of Incidents reported, Value of Property Stolen, Value of property Recovered, and finally the Percent Recovered.  The components of these totals are from each state the data has been collected from which are represented in the rows below the first row. These totaled values are 121 for the number of agencies reporting an incident, 628 for number of incidents reported, $27,872,130 for the total value of property stolen, $5,492,273, for value of property recovered, and 19.7 for the percentage of recovered property.
+    questions_and_answers:
+       - question: |
+          What is the information in row one in the table?        
+         answer: | 
+          The information in row one in the table is totaling the available statistics across multiple categories used to organize the crime data.  These totals are for Number of agencies reporting an incident, Number of Incidents reported, Value of Property Stolen, Value of property Recovered, and finally the Percent Recovered.  The components of these totals are from each state the data has been collected from which are represented in the rows below the first row. These totaled values are 121 for the number of agencies reporting an incident, 628 for number of incidents reported, $27,872,130 for the total value of property stolen, $5,492,273, for value of property recovered, and 19.7 for the percentage of recovered property.
           
-   - question: | 
-        What is the information in row two in the table?
-   - answer: | 
-        Row two of the table represents data collected from the state of Arkansas and holds value for the categories of Number of agencies reporting an incident, Number of Incidents reported, Value of Property Stolen, Value of property Recovered, and finally the Percent Recovered.   For the state of Arkansas in row two the values are 1 for Number of agencies reporting an incident, 2 Number of Incidents reported 4,100 for the Value of Property Stolen, 0 Value of property Recovered, and 0.0 for Percent Recovered.
+       - question: | 
+           What is the information in row two in the table?
+         answer: | 
+           Row two of the table represents data collected from the state of Arkansas and holds value for the categories of Number of agencies reporting an incident, Number of Incidents reported, Value of Property Stolen, Value of property Recovered, and finally the Percent Recovered.   For the state of Arkansas in row two the values are 1 for Number of agencies reporting an incident, 2 Number of Incidents reported 4,100 for the Value of Property Stolen, 0 Value of property Recovered, and 0.0 for Percent Recovered.
          
-   - question: | 
-        What is the value of the property stolen in Texas in 2015?
-   - answer: | 
-        The value of the property stolen in Texas in 2015 is $13,697,853
+       - question: | 
+            What is the value of the property stolen in Texas in 2015?
+         answer: | 
+            The value of the property stolen in Texas in 2015 is $13,697,853
 
 
-Context: |
- version: 3
-domain: Yearly Crime Data
-created_by: Cameron
-document_outline: 
-    The Federal Bureau of Investigation Records on 
-seed_examples:
- -context: |
+
+  - context: |
       ## Table 2 Cargo Theft Property Stolen and Recovered, by Type and Value, 2015
 
        | Type of property                                   | Value of property Stolen   | Value of property Recovered | Percent Recovered  |
@@ -294,18 +284,18 @@ seed_examples:
        | Credit, debit cards 1                              | 0                   | 0                   |           |
        | Crops                                              | 301                 | 0                   | 0.0       |
 
-questions_and_answers:
-   - question: | 
-        What is the information in row one in the table?
-   - answer: | 
-        The information in row one in the table is totaling the available statistics across multiple categories used to organize the crime data; the subtotals below are organized by Type of Property Recovered.  Columns comprise different types of data these being: Type of Property, Value of Property Stolen, Value of Property Recovered and Percent Recovered.
+    questions_and_answers:
+      - question: | 
+          What is the information in row one in the table?
+        answer: | 
+          The information in row one in the table is totaling the available statistics across multiple categories used to organize the crime data; the subtotals below are organized by Type of Property Recovered.  Columns comprise different types of data these being: Type of Property, Value of Property Stolen, Value of Property Recovered and Percent Recovered.
 
-   - question: | 
-        What is the information in row two in the table?
-   - answer: | 
-        The information in row one in the table is pertaining to the property theft correlating to Alcohol, in this case, for example, the second row shows us that the total value of all the alcohol stolen in 2015 was $594,747 
+      - question: | 
+          What is the information in row two in the table?
+        answer: | 
+          The information in row one in the table is pertaining to the property theft correlating to Alcohol, in this case, for example, the second row shows us that the total value of all the alcohol stolen in 2015 was $594,747 
 
-   - question: | 
-        What is the percentage of bicycle theft recovered in 2015?
-   - answer: | 
-        The total percentage of bicycles recovered from bicycle theft in 2015 is 0.0
+      - question: | 
+          What is the percentage of bicycle theft recovered in 2015?
+        answer: | 
+          The total percentage of bicycles recovered from bicycle theft in 2015 is 0.0
