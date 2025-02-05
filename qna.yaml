@@ -281,10 +281,10 @@ document:
   repo: 'https://github.com/cskidmo/FBI_data'
   commit: 75ae6241c32c8e18c3dd9ff58ac446a047a856f0
   patterns:
-    - '2018 Cargo Theft Report.pdf'
-    - '2019 Cargo Theft Report.pdf'
-    - 'CargoTheft Report -2017-_to CSMU for final review Aug 20 2018.pdf'
-    - 'CargoTheft Report 2016_final.pdf'
-    - 'CargoTheft Report_2015_final.pdf'
-    - 'CargoTheft Report_FINAL copy.pdf' 
-    - 'CargoTheftUpdate2013.pdf'
+    - '2018_Cargo_Theft_Report.md'
+    - '2019_Cargo_Theft_Report.md'
+    - 'CargoTheft_Report_2017_to_CSMU_for_final_review_Aug_20_2018.md'
+    - 'CargoTheft_Report_FINAL_copy.md'
+    - 'Cargo_Theft_Report_2015_final.md'
+    - 'Cargo_Theft_Report_2016_final.md' 
+    - 'Cargo_Theft_Update_2013.md'
